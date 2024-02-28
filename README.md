@@ -1,0 +1,2 @@
+## Program that simulates the activity in a medical office:
+ A given number of patient threads will be created that will wait for the release of some resources representing doctors. Clients will occupy the resource doctor for a random period that does not exceed a given limit. Every patient will be generated at a random interval for a period of time. After consultation, the patient  will display the waiting time and consultation time
